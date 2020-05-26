@@ -16,6 +16,7 @@ AsteroidArcade	KEYWORD1
 moveSpaceship	KEYWORD2
 shootMissile	KEYWORD2
 sendData	KEYWORD2
+IMU	KEYWORD2
 #######################################
 # Constants (LITERAL1)
 #######################################
